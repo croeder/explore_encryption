@@ -5,7 +5,7 @@ package com.croeder.learn;
  */
 public class App {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+        System.out.println("Java");
 
        DoSha256.do_it();
     }

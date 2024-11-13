@@ -2,6 +2,8 @@
 
 import hashlib
 
+print("Python")
+
 test_string = 'a|123445|chris|roeder|123 S. Main St|Ft Morgan|CO|80000' 
 
 def create_hash(input_string):
